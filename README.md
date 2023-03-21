@@ -1,2 +1,3 @@
 # 2doParcial
 Repositorio para 2do Parcial
+#### Este repositorio trata sobre el segundo parcial del curso de Introduccion a la Ingenieria en Informatica y sistemas, se creara una rama llamada Develop en esa rama se creara un archivo de python que imprima nuestro nombre y numero de carnet, despues se creara otra rama llamada feature/mayormenor originaria de Develop se creara un archivo de python que le pida al usuario 2 numeros e imprima en pantalla el mas grande, despues se creara otra rama llamada feature/par originaria de Develop se creara un archivo de python que verifique si un numero es par.
